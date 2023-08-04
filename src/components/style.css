@@ -1,0 +1,10 @@
+.nav{
+    border: solid black;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: .2em;
+}
